@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Claudio, I am a German Software Developer, living in New Zealand.
 
 - 🌱 I’m currently learning Go
 
